@@ -11,7 +11,7 @@ A modern iOS movie app built with SwiftUI featuring CRUD operations and TMDb API
 - iOS 14+ compatibility
 
 ## Setup
-1. 1. Clone the repository: https://github.com/abhisekprusty977/FilmFolio
+1. Clone the repository: https://github.com/abhisekprusty977/FilmFolio
 
 2. Navigate to the project folder:
 
